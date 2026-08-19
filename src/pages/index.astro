@@ -105,6 +105,7 @@ const websiteSchema = {
     }
   </section>
 
+  <section class="section index-feed" aria-labelledby="latest-notes">
   <div class="carousel rounded-box w-full max-w-md style='margin-top: 3rem;'">
     <div class="carousel-item w-full">
       <img src="https://img.daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.webp" class="w-full" alt="Burger" />
@@ -124,6 +125,7 @@ const websiteSchema = {
       <h2 id="latest-notes">Field notes.</h2>
       <a class="text-link" href={withBase('/blog/')}>{t('home.allPosts')}</a>
     </div>
+  </section>
 
     {
       posts.length > 0 ? (
