@@ -11,6 +11,7 @@ export const SITE = {
   locale: 'en',
   /** Site name — used in the header brand, <title>, and og:site_name. */
   title: 'susanta.top',
+  
   /** Default meta description for pages that don't set their own. */
   description: 'A minimal, neutral, and modern portfolio and blog theme for Astro.',
   /** Description of the RSS feed at /rss.xml. */
