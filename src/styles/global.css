@@ -1059,3 +1059,33 @@ pre code {
     max-width: 100%;
   }
 }
+
+
+ /* CUSTOM CSS FOR CAR-O-USE-L */
+  .image-carousel {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    overflow-x: auto;
+    margin-top: 1.5rem;
+  }
+
+  .image-carousel img {
+    flex: 1 0 auto;
+    width: 33%;
+    max-width: 360px;
+    border-radius: 0.5rem;
+    object-fit: cover;
+  }
+
+  @media (max-width: 640px) {
+    .image-carousel {
+      flex-direction: column;
+      overflow-x: visible;
+    }
+
+    .image-carousel img {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
