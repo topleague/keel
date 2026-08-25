@@ -7,8 +7,6 @@ description: 'Bara and Ghuguni of Rabi Bhai at Unit-6 — a story about one of B
 draft: false
 ---
 
-# Bara and Ghuguni of Rabi Bhai at Unit-6
-
 **Narrated by**: Kaushik Chatterjee
 
 **Originally Published at**: **[Foodies of Bhubaneswar-Cuttack](https://www.facebook.com/foodiesbbsrctc/photos/a.223034674485779.47445.222531067869473/602097246579518/?type=1)**
