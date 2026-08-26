@@ -8,7 +8,7 @@ import { remarkReadingTime } from './remark-reading-time.mjs';
 // https://astro.build/config
 export default defineConfig({
   // Point to your actual production domain for sitemaps, canonicals, and RSS links
-  site: 'https://pages.dev',
+  site: 'https://ugosus.pages.dev',
   // Removed '/astro-keel' so the blog deploys directly to your root home URL
   integrations: [mdx(), sitemap()],
   markdown: {
