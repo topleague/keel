@@ -1089,3 +1089,10 @@ pre code {
       max-width: 100%;
     }
   }
+
+ /* CUSTOM CSS FOR BODY IMAGES THAT DISTORED THE PAGE ON MOBILE */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
