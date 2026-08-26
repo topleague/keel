@@ -1,6 +1,8 @@
 ---
 title: What Makes Odisha Poor and How It Can Change its Fortunes
 publishDate: '2016-11-07'
+heroImage: '../../assets/images/blog/why-odisha-poor.jpg'
+heroImageAlt: 'What Makes Odisha Poor and How It Can Change its Fortunes'
 tags:
 - guest-articles
 description: The slogan of ‘Make in Odisha’ is being raised, Bhubaneswar is going
